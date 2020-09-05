@@ -1,2 +1,2 @@
-# kocolab_Manuals
+# Kicolab Manuals
 Manuals for the KICOLAB helpers
